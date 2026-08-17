@@ -1,0 +1,5 @@
+/ezboost-offline-v*.zip
+/release-test/
+/release/
+*.tmp
+*.log
